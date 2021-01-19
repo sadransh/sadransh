@@ -1,3 +1,5 @@
+![](https://github-readme-stats.vercel.app/api?username=sadransh&count_private=true&theme=dark&show_icons=true)
+
 ![](https://github-profile-view-counter.vercel.app/sadransh/sadransh "since 10/31/2020" ) 
 
 <!--
@@ -14,5 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-https://github-readme-stats.vercel.app/api?username=sadransh&count_private=true
+https://github-readme-stats.vercel.app/api?username=sadransh&count_private=true&theme=dark&show_icons=true
 -->
